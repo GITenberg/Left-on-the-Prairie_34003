@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '36633'
     url: http://www.gutenberg.org/2009/agents/36633
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34003#Left-on-the-Prairie
 gutenberg_issued: '2010-09-26'
 gutenberg_type: Text
 identifiers:
