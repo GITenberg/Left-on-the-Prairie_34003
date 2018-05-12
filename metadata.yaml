@@ -1,0 +1,34 @@
+_repo: Left-on-the-Prairie_34003
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pearce, A.
+    gutenberg_agent_id: '40845'
+    url: http://www.gutenberg.org/2009/agents/40845
+covers:
+- cover_type: archival
+  image_path: 34003-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: West, Noel
+    aliases:
+    - Cox, Mrs. M. B.
+    - Cox, M. B., Mrs.
+    gutenberg_agent_id: '36633'
+    url: http://www.gutenberg.org/2009/agents/36633
+description: ''
+gutenberg_issued: '2010-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Prairies -- United States -- Juvenile fiction'
+- !lcsh 'Cowboys -- Juvenile fiction'
+title: Left on the Prairie
+url: http://www.gutenberg.org/ebooks/34003
